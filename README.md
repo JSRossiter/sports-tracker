@@ -8,4 +8,5 @@ As this app was built to consume data from a paid API it currently only shows ML
 The purpose of this repo is to combine the server and client side projects for deployment to heroku.
 
 https://github.com/JSRossiter/sports-tracker-server
+
 https://github.com/JSRossiter/sports-tracker-client
